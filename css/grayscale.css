@@ -149,8 +149,9 @@ a:focus {
     color: #fff;
     /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;*/
     /*background: url(../img/volcano.jpg) no-repeat bottom center scroll;*/
-    background: url(../img/internetCoverage.jpg) no-repeat bottom center scroll;
+    /*background: url(../img/internetCoverage.jpg) no-repeat bottom center scroll;*/
     /*background: url(../img/internetCoverage2.jpg) no-repeat bottom center scroll;*/
+    background: url(../img/streamLight.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
