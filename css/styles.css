@@ -19,3 +19,16 @@
 .message .message-form{
     margin-right: 95px;
 }
+
+
+.message-button{
+    color: #fff;
+    background-color: #0023A1;
+    border-color: #0023A1;
+}
+
+.message-button:hover{
+    color: black;
+    background-color: #0023A1;
+    border-color: #0023A1;
+}
