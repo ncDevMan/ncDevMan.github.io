@@ -4,22 +4,32 @@
 
 
 
-/*.btn-default{*/
-    /*color: blue;*/
-    /*border: 1px solid blue;*/
-/*}*/
 
-/*.btn{*/
-    /*color: blue;*/
-/*}*/
 
+/* About Me */
+.personal-picture{
+    height: 250px;
+    width: 230px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Contact Information */
 
 
 /*Message Form*/
 /*.message .message-form{*/
     /*margin-right: 95px;*/
 /*}*/
-
 
 .message-button{
     color: #fff;
