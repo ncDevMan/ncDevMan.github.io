@@ -273,8 +273,8 @@ a:focus {
     /*background: url(../img/downloads-bg.jpg) no-repeat center center scroll;*/
     /*background: url(../img/volcanoeruption.jpg) no-repeat bottom center scroll;*/
     /*background: url(../img/blueAbstract.jpg) no-repeat bottom center scroll;*/
-    /*background: url(../img/internetCoverage2.jpg) no-repeat bottom center scroll;*/
-    background: url(../img/internetCoverage.jpg) no-repeat bottom center scroll;
+    background: url(../img/internetCoverage2.jpg) no-repeat center center scroll;
+    /*background: url(../img/internetCoverage.jpg) no-repeat bottom center scroll;*/
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
