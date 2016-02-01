@@ -49,3 +49,27 @@
     /*background-color: #0023A1;*/
     /*border-color: #0023A1;*/
 /*}*/
+
+
+
+/*
+
+----------------------------- PORTFOLIO.HTML -----------------------------
+
+*/
+
+.portfolio-item > h4{
+    text-align:center;
+}
+
+
+
+.project-heading{
+    text-align: center;
+
+}
+
+.project-name{
+    text-align: center;
+}
+
